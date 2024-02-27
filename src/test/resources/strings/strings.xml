@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Error Text -->
+    <string name="err_invalid_username">Enter a valid email address.</string>
+    <string name="err_not_register_username">This email is not associated with an account. Sign up or try again.</string>
+    <string name="err_invalid_username_or_password">Email and password don’t match.</string>
+    <string name="product_title">Tasty is a tap away.</string>
+
+<!-- Products Page SLB product details -->    
+    <string name="products_page_slb_title">Sauce Labs Backpack</string>
+    <string name="products_page_slb_price">$29.99</string>
+    
+<!-- Product Details Page SLB product details -->    
+    <string name="product_details_page_slb_title">Sauce Labs Backpack</string>
+    <string name="product_details_page_slb_txt">carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.</string>
+	<string name="product_details_page_slb_price">$29.99</string>
+</resources>

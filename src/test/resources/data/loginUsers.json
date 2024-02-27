@@ -1,0 +1,17 @@
+{
+	"invalidUser":{
+		"username":"dai1205199777"
+	},
+	"notRegisterUser":{
+		"username":"dai1205199777@gmail.com",
+		"password":"Dai12051997!"
+	},
+	"invalidPassword":{
+		"username":"dai12051997@gmail.com",
+		"password":"invalidpassword"
+	},
+	"validUser":{
+		"username":"dai12051997@gmail.com",
+		"password":"Dai12051997!"
+	}
+}
